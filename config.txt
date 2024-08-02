@@ -1,0 +1,3 @@
+map_file=map3.txt
+map_width=20
+map_height=20
